@@ -2,7 +2,7 @@
 
 Reinforcement Learning (Q-learning) project inspired by the deeplizard tutorial.
 
-:date: Creation date: July 2019 
+:date: Creation date: October 2019 
 
 ## :dart: Objective
 
